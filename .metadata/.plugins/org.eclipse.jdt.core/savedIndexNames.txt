@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\spring-tool-suite-3.9.6.RELEASE-e4.9.0-win32-x86_64\Spring_Microservices\.metadata\.plugins\org.eclipse.jdt.core
+687073113.index
+403891761.index
+1347325322.index
+279990817.index
